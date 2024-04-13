@@ -1,4 +1,5 @@
 Used statistical analysis in R to answer the question: Can Septic Arthritis and Gout be differentiated based on their transcriptional levels in blood?
+Grade: B1
 
 Input Required for code: 
 1. Expression Table with sample names as column names and gene IDs as row names
